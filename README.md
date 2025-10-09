@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hello,
+I am Mcbruster and I have experience with HTML, CSS, Javascript, and Python. 
 
-I am l0nni3, this is my personal coding space.
-
-![GettyImages-1132856161-scaled-3672308419](https://github.com/user-attachments/assets/80325624-1624-41e2-832b-375beb856112)
-
-The image above is pretty big. 
+You can visit my personal site [here](https://mattbruster.com).
+There you will find musings on my plethora of interests. 
